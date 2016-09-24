@@ -1,0 +1,5768 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+    <Table>
+        <CODE>ACBR00001A</CODE>
+        <NAME>Brazing Rod</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACBR00002A</CODE>
+        <NAME>Silver Brazing Rod</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00001A</CODE>
+        <NAME>2UF Capacitor - Square Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00002A</CODE>
+        <NAME>2.5UF Capacitor - Round Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00003A</CODE>
+        <NAME>3.5UF Capacitor - Square Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00004A</CODE>
+        <NAME>4 UF Capacitor - Square Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00005A</CODE>
+        <NAME>5MFD Capacitor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00006A</CODE>
+        <NAME>6UF Capacitor PVC Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00007A</CODE>
+        <NAME>7.5 MFD Capacitor HARD LAND</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00008A</CODE>
+        <NAME>12 UF Capacitor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00009A</CODE>
+        <NAME>15UF Capacitor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00010A</CODE>
+        <NAME>16UF Capacitor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00011A</CODE>
+        <NAME>20MFD Capacitor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00012A</CODE>
+        <NAME>30 MFD Capacitor AMRAD</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00013A</CODE>
+        <NAME>35 +5 MFD Capacitor LONCH</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00014A</CODE>
+        <NAME>45 +5 MFD Capacitor HART LAND</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00015A</CODE>
+        <NAME>50+5 UF Capacitor-AMRAD</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00016A</CODE>
+        <NAME>ALU. ROUND MOTOR RUN CAPACITOR 55+5MFD</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00017A</CODE>
+        <NAME>60+5 MFD Capacitor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCA00018A</CODE>
+        <NAME>Capacitor Bank Power Pack ( Starting Capacitor )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCC00001A</CODE>
+        <NAME>3/4" X 50FT X 15 Mtr Copper Coil</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCC00002A</CODE>
+        <NAME>3/8" X 50FT X 15 Mtr Copper Coil</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCC00003A</CODE>
+        <NAME>1/4" X 50FT X 15 Mtr Copper Coil</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCF00001A</CODE>
+        <NAME>1 1/8" Copper Elbow Heavt Duty</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCF00002A</CODE>
+        <NAME>1 1/8" Copper Socket Heavt Duty</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCF00003A</CODE>
+        <NAME>7/8" Copper Elbow Heavt Duty</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCF00004A</CODE>
+        <NAME>7/8" Copper Socket Heavt Duty</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCL00001A</CODE>
+        <NAME>Canvas Cloth 6 OZ 36" x 20 Yrd</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ACCV00001A</CODE>
+        <NAME>Charging Pin Valve</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFD00001A</CODE>
+        <NAME>Filter Drier 1/4" (EK-032)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFD00002A</CODE>
+        <NAME>Filter Drier 3/8" ( EK -163 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFD00003A</CODE>
+        <NAME>Filter Drier 3/8" ( EK -163S )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFD00004A</CODE>
+        <NAME>Filter Drier 1/2" ( EK -164 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFD00005A</CODE>
+        <NAME>Filter Drier 1/2" ( EK-164S )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFD00006A</CODE>
+        <NAME>Filter Drier 5/8" ( EK -165 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFD00007A</CODE>
+        <NAME>Filter Drier 5/8" ( EK -165S )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFD00008A</CODE>
+        <NAME>Filter Drier 5/8" ( EK -415 )- BIG</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFM00001A</CODE>
+        <NAME>LG Indoor Fan Motor Model - 4681A10013C</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFM00002A</CODE>
+        <NAME>Indoor Fan Motor 4681A10013A -LG</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFM00003A</CODE>
+        <NAME>Indoor Fan Motor 4681A20097C, 220V for LG Split Unit</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFM00004A</CODE>
+        <NAME>Indoor Fan Motor 4681A20039A, 220V for LG Split Unit</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFN00001A</CODE>
+        <NAME>3/4" Nipple</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFN00002A</CODE>
+        <NAME>3/4" Flare Nut</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFN00003A</CODE>
+        <NAME>5/8" Nipple</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFN00004A</CODE>
+        <NAME>5/8" Flare Nut Muller</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFN00005A</CODE>
+        <NAME>7/16" Flare Nut</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFN00006A</CODE>
+        <NAME>7/16" Flare Nut</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFN00007A</CODE>
+        <NAME>1" Flare Nut</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACFN00008A</CODE>
+        <NAME>1" Nipple</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACMI00001A</CODE>
+        <NAME>Sight Glass 5/8" Emerson Liquid Moisture PCN 065394</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACMI00002A</CODE>
+        <NAME>Sight Glass 1/4" Emerson Liquid Moisture PCN 065391</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACMI00003A</CODE>
+        <NAME>Sight Glass 3/8" Emerson Liquid Moisture PCN 065392</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACRG00001A</CODE>
+        <NAME>Refrigarent R-22 Gas Cylinder- BNF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACRG00002A</CODE>
+        <NAME>R-141B Gas Cylinder</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACST00001A</CODE>
+        <NAME>3/8" Strainer</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACSV00001A</CODE>
+        <NAME>Shaffoff Valve 1/2"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00001A</CODE>
+        <NAME>V-Belt SPA950LW</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00002A</CODE>
+        <NAME>V-Belt SPA1880LW</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00003A</CODE>
+        <NAME>V-Belt SPZ1850</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00004A</CODE>
+        <NAME>V-Belt A-81</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00005A</CODE>
+        <NAME>V-Belt B-68</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00006A</CODE>
+        <NAME>V-Belt B-67</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00007A</CODE>
+        <NAME>V-Belt BX-67</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00008A</CODE>
+        <NAME>V-Belt A-65</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00009A</CODE>
+        <NAME>V-Belt B-65</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00010A</CODE>
+        <NAME>V-Belt B-63</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00011A</CODE>
+        <NAME>V-Belt B-62</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00012A</CODE>
+        <NAME>V-Belt B-60</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00013A</CODE>
+        <NAME>V-Belt B-59</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00014A</CODE>
+        <NAME>V-Belt B-58</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00015A</CODE>
+        <NAME>V-Belt BX-57</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00016A</CODE>
+        <NAME>V-Belt BX-56</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00017A</CODE>
+        <NAME>V-Belt A-56</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00018A</CODE>
+        <NAME>V-Belt B-56</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00019A</CODE>
+        <NAME>V-Belt B-55</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00020A</CODE>
+        <NAME>V-Belt B-54</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00021A</CODE>
+        <NAME>V-Belt B-52</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00022A</CODE>
+        <NAME>V-Belt B-46</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00023A</CODE>
+        <NAME>V-Belt B-45</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00024A</CODE>
+        <NAME>V-Belt B-39</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00025A</CODE>
+        <NAME>V-Belt A-37</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00026A</CODE>
+        <NAME>V-Belt A-36.5</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00027A</CODE>
+        <NAME>V-Belt B-36</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ACVB00028A</CODE>
+        <NAME>V-Belt A-35</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CAT</CODE>
+        <NAME>Printer Cartridges</NAME>
+        <UOM>NA</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEAF0001A</CODE>
+        <NAME>Air Freshner -75ML</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEAF0002A</CODE>
+        <NAME>Air Freshener Refill</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEAF0003A</CODE>
+        <NAME>Hand Sanitizer Gel Pouch 1LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEBH0001A</CODE>
+        <NAME>Toilet Brush With Holder</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEBH0001B</CODE>
+        <NAME>Wooden Hard Broom Red Colour with Handle</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEBU0001A</CODE>
+        <NAME>TTS Square Bucket 6LTR Green ( Italy )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEBU0002A</CODE>
+        <NAME>TTS Square Bucket 6LTR Red ( Italy )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECC0001A</CODE>
+        <NAME>Cleaning Cloth 50x50Cm</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECC0002A</CODE>
+        <NAME>Cleaning Cloth 40x30Cm</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0001A</CODE>
+        <NAME>Falcon Pine O Disinfectant 4 x 5LTR</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0002A</CODE>
+        <NAME>Glass Cleaner ( 4 x 4 LTR )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0003A</CODE>
+        <NAME>Hand Soap Liquid ( 4 X 4 LTR )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0004A</CODE>
+        <NAME>All Purpose Multi Cleaner ( 4 X 5 LTR )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0005A</CODE>
+        <NAME>Fleet Clan Super Degreaser Heavy Duty High Foam ( 25 LTR )</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0006A</CODE>
+        <NAME>Sutter Day Mok Day Foam Carpet Shampoo ( 4 X 5KGS ) Italy</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0007A</CODE>
+        <NAME>Suma D47 Pine Disinfectant for Floors Drains And Toilets ( 4 X 5LTR )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0008A</CODE>
+        <NAME>Taski Sprint Flower High Perfumed Cleaner &amp; Deoderiser ( 4 X 5LTR )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0009A</CODE>
+        <NAME>Taski R1 RTU Daily Toilet Bowl And Urinal Cleaner ( 6 X 750ML )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0010A</CODE>
+        <NAME>Taski R2 RTU Multi Surface Hgenic Cleaner ( 6 X 750ML )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0011A</CODE>
+        <NAME>Taski R3 RTU Multi Surface Glass Cleaner ( 6 X 750ML )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0012A</CODE>
+        <NAME>Taski R4 RTU Furniture Polish ( 6 X 750ML )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0013A</CODE>
+        <NAME>Taski R5 RTU Air Freshner( 6 X 750ML )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0014A</CODE>
+        <NAME>Taski R7 RTU Cream Cleaner( 6 X 750ML )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0015A</CODE>
+        <NAME>Taski Sprint Flower ( Highly Perfumed Claener And Deodoriser ) 4 X 5 LTR</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0016A</CODE>
+        <NAME>Taski Sani Calc Powerfull Lime Scale Remover 2 X 5LTR</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0017A</CODE>
+        <NAME>D7 Stainless Steel Polish ( 6 X 2LTR )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0018A</CODE>
+        <NAME>Taski Sani Clac Lime Scale Remover 2 X 2LTR</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLECH0019A</CODE>
+        <NAME>3M Deodorizer Country Day Scent Concentrate 12L 2 Ltr</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEDG0001A</CODE>
+        <NAME>Disposable Vnyl Gloves (Each Box 100 Pair )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEFC0001A</CODE>
+        <NAME>Micro Fiber Cloth Green 40CM X 40CM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEFC0002A</CODE>
+        <NAME>Micro Fiber Cloth Blue 40CM X 40CM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEFC0003A</CODE>
+        <NAME>Micro Fiber Cloth Yellow 40CM X 40CM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEFC0004A</CODE>
+        <NAME>Micro Fiber Cloth Red 40CM X 40CM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEFD0001A</CODE>
+        <NAME>Feather Duster</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEFW0001A</CODE>
+        <NAME>Floor Wiper</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEGB0001A</CODE>
+        <NAME>Garbage Bag Black 95x120 Each Bundle 20KGS</NAME>
+        <UOM>BDL</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEGB0003A</CODE>
+        <NAME>Plastic Bag White 50x60 Each Bundle 20KGS</NAME>
+        <UOM>BDL</UOM>
+    </Table>
+    <Table>
+        <CODE>CLELD0001A</CODE>
+        <NAME>Lobby Dust Pan With Brush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEMP0001A</CODE>
+        <NAME>Kentucky Mop 450 GSM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEMP0002A</CODE>
+        <NAME>Floor Shine Kentuky Mop &amp; Head 450 GSM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEMP0003A</CODE>
+        <NAME>TTS Single Bucket Mop Trolly Green Pile Italy</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEMP0004A</CODE>
+        <NAME>TTS Single Bucket Mop Trolly Red Pile Italy</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEMP0005A</CODE>
+        <NAME>TTS Kentucky Mop Holder Green Italy</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEMP0006A</CODE>
+        <NAME>TTS Kentucky Mop Holder Red Italy</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEPA0001A</CODE>
+        <NAME>Polishing Pad White 17" Each Box 5 Nos USA</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEPA0002A</CODE>
+        <NAME>Stripping Pad Black 17" Each Box 5 Nos USA</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEPA0003A</CODE>
+        <NAME>Buffing Pad Red 17" Each Box 5 Nos USA</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>CLERW0001A</CODE>
+        <NAME>Roller Wringer for Flat Mop ( Italy )</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>CLESB0001A</CODE>
+        <NAME>A Type Sign Board Cleaning In Progress</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLESB0002A</CODE>
+        <NAME>A Type Sign Board Caution-Wet Floor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLESC0001A</CODE>
+        <NAME>Floor Scrapper</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLESP0001A</CODE>
+        <NAME>3M Sponge</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLESY0001A</CODE>
+        <NAME>Empty Spray Bottle</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLETB0001A</CODE>
+        <NAME>Stainless Syeel Toilet Pin 7LTR With Padal Malaysia</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLETP0001A</CODE>
+        <NAME>Telescopic Pole 3 x 2MTR ( Italy )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEVC0001A</CODE>
+        <NAME>Wet/Dry Vaccum Cleaner Model-351 Italy Including Standard Accessories</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEVC0002A</CODE>
+        <NAME>Wet/Dry Vaccum Cleaner Model-902 ( 2Motors ) Italy Including Standard Accessories
+        </NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEWA0001A</CODE>
+        <NAME>Window Applicator 35CM ( Italy )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEWA0002A</CODE>
+        <NAME>Window Applicator 25CM ( Italy )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEWA0003A</CODE>
+        <NAME>Window Squeege Rubber 35CM ( Italy )</NAME>
+        <UOM>MTR</UOM>
+    </Table>
+    <Table>
+        <CODE>CLEWI0001A</CODE>
+        <NAME>TTS Floor Wiper With Aluminium Handle 45CM</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>CONAT0001A</CODE>
+        <NAME>Aluminium Tape 2"</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONBA0001A</CODE>
+        <NAME>Energizer AAA Battery</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONBA0002A</CODE>
+        <NAME>Energizer AA Battery</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONBA0003A</CODE>
+        <NAME>Panasonic Photo Power Battery 6 Volt,LV2 - Japan (CR-P2)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONBA0004A</CODE>
+        <NAME>Energizer Lithium Battery 6V-223 (223)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONBA0005A</CODE>
+        <NAME>Energizer Lithium Battery 6V-2CR5</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONBA0006A</CODE>
+        <NAME>Energizer Lithium Battery 9V-MAX</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONBT0001A</CODE>
+        <NAME>Black Tape 2"</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONCC0001A</CODE>
+        <NAME>Alu Bright Condensor Cleaner Oil ( Each - 1 Gallon )</NAME>
+        <UOM>GAL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONCC0001B</CODE>
+        <NAME>Totaline Condensor Cleaner Oil ( Each - 1 Gallon )</NAME>
+        <UOM>GAL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONCR0001A</CODE>
+        <NAME>CRC Cleaner 400ML</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONCW0001A</CODE>
+        <NAME>Cotton Waste - White</NAME>
+        <UOM>BDL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONCW0002A</CODE>
+        <NAME>Cotton Waste - Colour</NAME>
+        <UOM>BDL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONEM0001A</CODE>
+        <NAME>Emry Paper#320</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONEM0002A</CODE>
+        <NAME>Emry Paper 240</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONEM0003A</CODE>
+        <NAME>Emry Paper#220</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONEM0004A</CODE>
+        <NAME>Emry Paper 180</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONEM0005A</CODE>
+        <NAME>EMRY PAPER 100</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONEM0006A</CODE>
+        <NAME>EMRY PAPER 80</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONEP0001A</CODE>
+        <NAME>Ear Plug Industrial</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONFP0001A</CODE>
+        <NAME>6MM PVC Fisher Plug</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>CONFU0001A</CODE>
+        <NAME>13 Amp ceramic Fuse</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONFU0002A</CODE>
+        <NAME>5 Amps Fuse Glass Type Long</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONFU0003A</CODE>
+        <NAME>5 Amps Fuse Glass Type Small</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONFU0004A</CODE>
+        <NAME>4 Amps Ceramic Fuse</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONFU0005A</CODE>
+        <NAME>4 Amps Fuse Glass Type Small</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONFU0006A</CODE>
+        <NAME>3 Amps Fuse Glass Type-Small</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONFU0007A</CODE>
+        <NAME>2 Amps Ceramic Fuse</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONGT0001A</CODE>
+        <NAME>Grey Tape 2"</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHA0001A</CODE>
+        <NAME>HACKSAW BLADE-18 TEETH</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHA0001B</CODE>
+        <NAME>HACKSAW BLADE-24 TEETH</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHA0002A</CODE>
+        <NAME>MINI HACKSAW BLADE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHB0001A</CODE>
+        <NAME>12MM HSS DRILL BIT DORMER</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHB0002A</CODE>
+        <NAME>10MM X 133MM ( D-06579 ) HSS DRILL BIT Makita</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHB0003A</CODE>
+        <NAME>10MM HSS A-100 DRILL BIT DORMER</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHB0004A</CODE>
+        <NAME>8MM HSS DRILL BIT MAKITA</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHB0005A</CODE>
+        <NAME>6MM HSS DRILL BIT MAKITA</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONHB0006A</CODE>
+        <NAME>5MM HSS DRILL BIT MAKITA</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONIT0001A</CODE>
+        <NAME>PVC Insulation Tape -BLUE</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONIT0002A</CODE>
+        <NAME>PVC Insulation Tape -YELLOW</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONIT0003A</CODE>
+        <NAME>PVC Insulation Tape -RED</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONIT0004A</CODE>
+        <NAME>PVC Insulation Tape -BLACK</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONIT0005A</CODE>
+        <NAME>PVC Insulation Tape -YELLOW/GREEN</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONJB0001A</CODE>
+        <NAME>Jigsaw Blade - Wood Cutting (B-13) Makita</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONJB0002A</CODE>
+        <NAME>Jigsaw Blade - Steel Cutting (B-22) Makita</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONJB0003A</CODE>
+        <NAME>Jigsaw Blade 8603-63mm - Wodden Cutting - Black Decker</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONJB0004A</CODE>
+        <NAME>Jigsaw Blade 8604-42mm - Wodden Cutting - Black Decker</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONMT0001A</CODE>
+        <NAME>Masking Tape 2" ( 1 X 24 )</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPA0001A</CODE>
+        <NAME>Fenomastic Matt Emulsion IVV567UVA (0567) 18 Ltr 10B/15 - Jotun</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPA0002A</CODE>
+        <NAME>Fenomastic Emulsion White Paint - 18Ltr - Jotun</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPA0003A</CODE>
+        <NAME>Durosan 10A01 Emulsion Paint - 18Ltr - Jotun</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPA0004A</CODE>
+        <NAME>Stucco Putty - 18LTR - Jotun</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPA0005A</CODE>
+        <NAME>Stucco Putty - 5US Gallon - National</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPB0001A</CODE>
+        <NAME>4" Paint Brush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPB0002A</CODE>
+        <NAME>3" Paint Brush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPB0003A</CODE>
+        <NAME>2" Paint Brush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPB0004A</CODE>
+        <NAME>1" Paint Brush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPR0001A</CODE>
+        <NAME>9" Paint Roller With Handle-Bulldozer</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPR0002A</CODE>
+        <NAME>9" Paint Roller Refill Only- Bulldozer</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPR0003A</CODE>
+        <NAME>9" Oil Paint Roller Refill Only</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPR0004A</CODE>
+        <NAME>6" Paint Roller With Handle - ACORN</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPR0005A</CODE>
+        <NAME>4" Paint Roller Refill - Wimberland</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPR0006A</CODE>
+        <NAME>4" Oil Paint Roller Refill</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPR0007A</CODE>
+        <NAME>4" Paint Roller Refill with handle Robinson</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPT0001A</CODE>
+        <NAME>Polythene Roll 300G X 50Mtr )</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONPU0001A</CODE>
+        <NAME>Bando Putty With Hardener</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0001A</CODE>
+        <NAME>16MM X 110MM SDS HILTI BIT MAKITA (D00290)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0002A</CODE>
+        <NAME>14MM X 110MM SDS HILTI BIT MAKITA (D00278)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0003A</CODE>
+        <NAME>12MM SDS HILTI BIT MAKITA- LONG (D00240)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0003B</CODE>
+        <NAME>12MM SDS HILTI BIT MAKITA- Small (D05343)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0004A</CODE>
+        <NAME>10MM SDS HILTI BIT MAKITA - Long ( D00181 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0004B</CODE>
+        <NAME>10MM SDS HILTI BIT MAKITA - Small ( D00175 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0005A</CODE>
+        <NAME>8MM SDS HILTI BIT MAKITA Long ( D00131)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0005B</CODE>
+        <NAME>8MM SDS HILTI BIT MAKITA Small ( D00125)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0006A</CODE>
+        <NAME>6MM X 110MM SDS HILTI BIT MAKITA Long ( D 00066 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSB0006B</CODE>
+        <NAME>6MM X 110MM SDS HILTI BIT MAKITA Small ( D 00050 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSF0001A</CODE>
+        <NAME>White Super Filler Powder Delta</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSF0001B</CODE>
+        <NAME>White Super Filler Powder REX</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSI0001A</CODE>
+        <NAME>Silicon Clear</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSI0002A</CODE>
+        <NAME>Silicon White</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSP0001A</CODE>
+        <NAME>Spray Paint Grey</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSP0002A</CODE>
+        <NAME>Spray Paint White</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSP0003A</CODE>
+        <NAME>Spray Paint Black</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONSP0004A</CODE>
+        <NAME>Spray Paint Red</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONTH0001A</CODE>
+        <NAME>Thinner (Sadolin) U.S.Gallon 3.785 LTR</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONTH0001B</CODE>
+        <NAME>Thinner ( National) U.S.Gallon</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONUC0001A</CODE>
+        <NAME>Under Coat (42460-10000) - 20LTR - Hempel</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONUC0001B</CODE>
+        <NAME>Under Coat (42460-10000) - 5LTR - Hempel</NAME>
+        <UOM>DRM</UOM>
+    </Table>
+    <Table>
+        <CODE>CONVP0001A</CODE>
+        <NAME>Vaccum Pump Oil</NAME>
+        <UOM>GAL</UOM>
+    </Table>
+    <Table>
+        <CODE>CONWD0001A</CODE>
+        <NAME>WD-40</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONWS0001A</CODE>
+        <NAME>Wall Scrapper 9"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONWS0002A</CODE>
+        <NAME>Wall Scrapper 6"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONWS0003A</CODE>
+        <NAME>Wall Scrapper 4"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONWS0004A</CODE>
+        <NAME>Wall Scrapper 3"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONWS0005A</CODE>
+        <NAME>Wall Scrapper 2"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>CONWS0006A</CODE>
+        <NAME>Wall Scrapper 1"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>EL22D0001A</CODE>
+        <NAME>Osram 60W B-22d India Type Pin Clear Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>EL22D0002A</CODE>
+        <NAME>Osram 60W B-22d India Type Pin frosted Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>EL22D0003A</CODE>
+        <NAME>Osram 23W/865 Day Light B-22d India Type Pin</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>EL22D0004A</CODE>
+        <NAME>Osram 20W/865 Day Light B-22d India Type Pin</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>EL40L0001A</CODE>
+        <NAME>Osram MH Lamp HQI BT 400W E40</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>EL40L0002A</CODE>
+        <NAME>Osram 250W Halogen Lamp HQI-T250W/D PRO Power Star</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELAV00001A</CODE>
+        <NAME>2Way Valve 3/4"VC6013 Honeywell Actuvator</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELAV00001B</CODE>
+        <NAME>EATAC Actuator SVZ-230-Industrial Technic</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELBFL0001A</CODE>
+        <NAME>GE 22W Butter Fly Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC140001A</CODE>
+        <NAME>Osram 11W -E-14 thraded Lamp Cool Day Light</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC140001B</CODE>
+        <NAME>Philips 11W -E-14 thraded Lamp Cool Day Light</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC140001C</CODE>
+        <NAME>GE 11W -E-14 thraded Lamp Cool Day Light</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC140002A</CODE>
+        <NAME>Osram 25W Candle Lamp E-14 Type frosted Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC140002B</CODE>
+        <NAME>Philips 25W Candle Lamp E-14 Type frosted Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC140002C</CODE>
+        <NAME>GE 25W Candle Lamp E-14 Type frosted Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270001A</CODE>
+        <NAME>Osram 80W-240V E27 Threaded Type Garden Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270002A</CODE>
+        <NAME>Osram 60W Threaded Bulb E27 Clear Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270002B</CODE>
+        <NAME>Philips 60W Threaded Bulb E27 Clear Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270002C</CODE>
+        <NAME>GE 60W Threaded Bulb E27 Clear Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270003A</CODE>
+        <NAME>Osram 60W Threaded Bulb E27 Forsted Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270003B</CODE>
+        <NAME>Philips 60W Threaded Bulb E27 Forsted Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270003C</CODE>
+        <NAME>GE 60W Threaded Bulb E27 Forsted Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270004A</CODE>
+        <NAME>Osram 60W Threaded Bulb E27 Clear Type Small Size</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270005A</CODE>
+        <NAME>Osram 60W Threaded Bulb E27 Forsted Type Small Size</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270006A</CODE>
+        <NAME>GE 60W E27 Threaded Lamp PHILUX 80 ( Marcuri Type )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270007A</CODE>
+        <NAME>Osram 23W/865 Cool Day Light E-27 CF Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270008A</CODE>
+        <NAME>Osram 20W/865 Cool Day Light E-27 CF Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270009A</CODE>
+        <NAME>Osram 15W/865 Cool Day Light E-27 CF Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270010A</CODE>
+        <NAME>Osram 14W/865 Cool Day Light E-27 CF Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELC270010B</CODE>
+        <NAME>GE 14W 61507 CFL Lamp E27 Threaded Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0001A</CODE>
+        <NAME>Flexible Cable 4C X 1.5MM White Full Gauge ( Ducab ) 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0001B</CODE>
+        <NAME>Flexible Cable 4C X 1.5MM White Full Gauge ( Seecab ) 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0001C</CODE>
+        <NAME>Flexible Cable 4C X 1.5MM White Full Gauge ( RR ) 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0002A</CODE>
+        <NAME>Flexible Cable 4C X 2.5MM White Full Gauge ( Ducab )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0002B</CODE>
+        <NAME>Flexible Cable 4C X 2.5MM White Full Gauge ( Seecab )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0002C</CODE>
+        <NAME>Flexible Cable 4C X 2.5MM White Full Gauge ( RR )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0003A</CODE>
+        <NAME>Flexible Cable 4C X 4MM White Full Gauge ( Ducab )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0003B</CODE>
+        <NAME>Flexible Cable 4C X 4MM White Full Gauge ( Seecab )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0003C</CODE>
+        <NAME>Flexible Cable 4C X 4MM White Full Gauge ( RR )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0004A</CODE>
+        <NAME>Flexible Cable 3C X 1.5MM White Full Gauge ( Ducab ) 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0004B</CODE>
+        <NAME>Flexible Cable 3C X 1.5MM White Full Gauge ( Seecab ) 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0004C</CODE>
+        <NAME>Flexible Cable 3C X 1.5MM White Full Gauge ( RR ) 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0005A</CODE>
+        <NAME>Flexible Cable 3C X 2.5MM White Full Gauge ( Ducab )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0005B</CODE>
+        <NAME>Flexible Cable 3C X 2.5MM White Full Gauge ( Seecab )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0005C</CODE>
+        <NAME>Flexible Cable 3C X 2.5MM White Full Gauge ( RR )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0006A</CODE>
+        <NAME>Flexible Cable 3C X 4MM White Full Gauge ( Ducab )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0006B</CODE>
+        <NAME>Flexible Cable 3C X 4MM White Full Gauge ( Seecab )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0006C</CODE>
+        <NAME>Flexible Cable 3C X 4MM White Full Gauge ( RR )100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0007A</CODE>
+        <NAME>Single Core X 4MM Red Colour- Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0007B</CODE>
+        <NAME>Single Core X 4MM Red Colour- Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0007C</CODE>
+        <NAME>Single Core X 4MM Red Colour- RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0008A</CODE>
+        <NAME>Single Core X 4MM Yellow Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0008B</CODE>
+        <NAME>Single Core X 4MM Yellow Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0008C</CODE>
+        <NAME>Single Core X 4MM Yellow Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0009A</CODE>
+        <NAME>Single Core X 4MM Blue Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0009B</CODE>
+        <NAME>Single Core X 4MM Blue Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0009C</CODE>
+        <NAME>Single Core X 4MM Blue Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0010A</CODE>
+        <NAME>Single Core X 4MM Black Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0010B</CODE>
+        <NAME>Single Core X 4MM Black Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0010C</CODE>
+        <NAME>Single Core X 4MM Black Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0011A</CODE>
+        <NAME>Single Core X 4MM yellow/Green Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0011B</CODE>
+        <NAME>Single Core X 4MM yellow/Green Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0011C</CODE>
+        <NAME>Single Core X 4MM yellow/Green Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0012A</CODE>
+        <NAME>Single Core X 2.5MM Red Colour- Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0012B</CODE>
+        <NAME>Single Core X 2.5MM Red Colour- Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0012C</CODE>
+        <NAME>Single Core X 2.5MM Red Colour- RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0013A</CODE>
+        <NAME>Single Core X 2.5MM Yellow Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0013B</CODE>
+        <NAME>Single Core X 2.5MM Yellow Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0013C</CODE>
+        <NAME>Single Core X 2.5MMYellow Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0014A</CODE>
+        <NAME>Single Core X 2.5MM Blue Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0014B</CODE>
+        <NAME>Single Core X 2.5MM Blue Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0014C</CODE>
+        <NAME>Single Core X 2.5MM Blue Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0015A</CODE>
+        <NAME>Single Core X 2.5MM Black Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0015B</CODE>
+        <NAME>Single Core X 2.5MM Black Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0015C</CODE>
+        <NAME>Single Core X 2.5MM Black Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0016A</CODE>
+        <NAME>Single Core X 2.5MM yellow/Green Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0016B</CODE>
+        <NAME>Single Core X 2.5MM yellow/Green Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0016C</CODE>
+        <NAME>Single Core X 2.5MMyellow/Green Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0017A</CODE>
+        <NAME>Single Core X 1.5MM Red Colour- Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0017B</CODE>
+        <NAME>Single Core X 1.5MM Red Colour- Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0017C</CODE>
+        <NAME>Single Core X 1.5MM Red Colour- RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0018A</CODE>
+        <NAME>Single Core X 1.5MM Yellow Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0018B</CODE>
+        <NAME>Single Core X 1.5MM Yellow Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0018C</CODE>
+        <NAME>Single Core X 1.5MM Yellow Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0019A</CODE>
+        <NAME>Single Core X 1.5MM Blue Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0019B</CODE>
+        <NAME>Single Core X 1.5MM Blue Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0019C</CODE>
+        <NAME>Single Core X 1.5MM Blue Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0020A</CODE>
+        <NAME>Single Core X 1.5MM Black Colour - Ducab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0020B</CODE>
+        <NAME>Single Core X 1.5MM Black Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0020C</CODE>
+        <NAME>Single Core X 1.5MM Black Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0021A</CODE>
+        <NAME>Single Core X 1.5MM yellow/Green Colour - Seecab 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0021B</CODE>
+        <NAME>Single Core X 1.5MM yellow/Green Colour - Seecab</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAB0021C</CODE>
+        <NAME>Single Core X 1.5MM yellow/Green Colour - RR 100 yards</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAT0001A</CODE>
+        <NAME>Cable Tie 300 X 6MM</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAT0002A</CODE>
+        <NAME>Cable Tie 250 X 3.6MM</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAT0003A</CODE>
+        <NAME>Cable Tie 200 X 3.6MM</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCAT0004A</CODE>
+        <NAME>Cable Tie 150 X 3.6MM</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20001A</CODE>
+        <NAME>Osram 26W/865 LUMILUX DAY LIGHT G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20001B</CODE>
+        <NAME>Philips 26W/865LUMILUX DAY LIGHT G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20001C</CODE>
+        <NAME>GE 26W/865 LUMILUX DAY LIGHT G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20002A</CODE>
+        <NAME>Osram 26W/840 LUMILUX DAY LIGHT G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20002B</CODE>
+        <NAME>Philips 26W/840 LUMILUX DAY LIGHT G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20002C</CODE>
+        <NAME>GE 26W/840 LUMILUX DAY LIGHT G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20003A</CODE>
+        <NAME>Osram 26W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20003B</CODE>
+        <NAME>Philips 26W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20003C</CODE>
+        <NAME>GE 26W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20004A</CODE>
+        <NAME>Osram 18W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20004B</CODE>
+        <NAME>Philips 18W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20004C</CODE>
+        <NAME>GE 18W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20005A</CODE>
+        <NAME>Osram 18W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20005B</CODE>
+        <NAME>Philips 18W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20005C</CODE>
+        <NAME>GE 18W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20006A</CODE>
+        <NAME>Osram 18W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20006B</CODE>
+        <NAME>Philips 18W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20006C</CODE>
+        <NAME>GE 18W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20007A</CODE>
+        <NAME>Osram 13W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20007B</CODE>
+        <NAME>Philips 13W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20007C</CODE>
+        <NAME>GE 13W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20007D</CODE>
+        <NAME>Sylvania 13W/865 CFL Lamp G24D1 Cool Day Light ( 2PIN TYPE)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20008A</CODE>
+        <NAME>Osram 13W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20008B</CODE>
+        <NAME>Philips 13W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20008C</CODE>
+        <NAME>GE 13W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20009A</CODE>
+        <NAME>Osram 13W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20009B</CODE>
+        <NAME>Philips 13W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20009C</CODE>
+        <NAME>GE 13W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20010A</CODE>
+        <NAME>Osram 10W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20010B</CODE>
+        <NAME>Philips 10W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20010C</CODE>
+        <NAME>GE 10W/865 LUMILUX COOL DAY LIGHT - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20011A</CODE>
+        <NAME>Osram 10W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20011B</CODE>
+        <NAME>Philips 10W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20011C</CODE>
+        <NAME>GE 10W/840 Cool White G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20012A</CODE>
+        <NAME>Osram 10W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20012B</CODE>
+        <NAME>Philips 10W/830 Warm White -G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20012C</CODE>
+        <NAME>GE 10W/830 Warm White - G24d-2 - 2Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20013A</CODE>
+        <NAME>GE Fluorecent Lamp ( 9 Watt Biax ) G 23 single End 2 Pin-37653</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL20013B</CODE>
+        <NAME>Osram 9W/865 - G23-2Pin 37653</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40001A</CODE>
+        <NAME>Osram 26W/865 LUMILUX COOL DAY LIGHT G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40001B</CODE>
+        <NAME>Philips 26W/865 LUMILUX COOL DAY LIGHT G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40001C</CODE>
+        <NAME>GE 26W/865 LUMILUX COOL DAY LIGHT G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40002A</CODE>
+        <NAME>Osram 26W/840 LUMILUX DAY LIGHT G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40002B</CODE>
+        <NAME>Philips 26W/840 LUMILUX DAY LIGHT G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40002C</CODE>
+        <NAME>GE 26W/840 LUMILUX DAY LIGHT G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40003A</CODE>
+        <NAME>Osram 26W/830 Warm White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40003B</CODE>
+        <NAME>Philips 26W/830 Warm White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40003C</CODE>
+        <NAME>GE 26W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40004A</CODE>
+        <NAME>Osram 18W/865 LUMILUX COOL DAY LIGHT -G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40004B</CODE>
+        <NAME>Philips 18W/865 LUMILUX COOL DAY LIGHT -G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40004C</CODE>
+        <NAME>GE 18W/865 LUMILUX COOL DAY LIGHT -G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40005A</CODE>
+        <NAME>Osram 18W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40005B</CODE>
+        <NAME>Philips 18W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40005C</CODE>
+        <NAME>GE 18W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40006A</CODE>
+        <NAME>Osram 18W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40006B</CODE>
+        <NAME>Philips 18W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40006C</CODE>
+        <NAME>GE 18W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40007A</CODE>
+        <NAME>Osram 13W/865 LUMILUX COOL DAY LIGHT - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40007B</CODE>
+        <NAME>Philips 13W/865 LUMILUX COOL DAY LIGHT - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40007C</CODE>
+        <NAME>GE 13W/865 LUMILUX COOL DAY LIGHT - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40008A</CODE>
+        <NAME>Osram 13W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40008B</CODE>
+        <NAME>Philips 13W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40008C</CODE>
+        <NAME>GE 13W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40009A</CODE>
+        <NAME>Osram 13W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40009B</CODE>
+        <NAME>Philips 13W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40009C</CODE>
+        <NAME>GE 13W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40010A</CODE>
+        <NAME>Osram 10W/865 LUMILUX COOL DAY LIGHT - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40010B</CODE>
+        <NAME>Philips 10W/865 LUMILUX COOL DAY LIGHT - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40010C</CODE>
+        <NAME>GE 10W/865 LUMILUX COOL DAY LIGHT - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40011A</CODE>
+        <NAME>Osram 10W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40011B</CODE>
+        <NAME>Philips 10W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40011C</CODE>
+        <NAME>GE 10W/840 Cool White G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40012A</CODE>
+        <NAME>Osram 10W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40012B</CODE>
+        <NAME>Philips 10W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCL40012C</CODE>
+        <NAME>GE 10W/830 Warm White - G24q-3 - 4Pin CFL LAMP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0001A</CODE>
+        <NAME>HARDLAND Contactor 50 Amp /3Pole /240VOL Coil</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0002A</CODE>
+        <NAME>HARDLAND 40 Amp /3Pole /240V Coil HCCE3XU04CG735N</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0002B</CODE>
+        <NAME>NEICO Contactor 40 Amp -3 Pole HSC Series Definite Purpose 208/240V ( NC30316)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0003A</CODE>
+        <NAME>HARDLAND Contactor 30 Amp /3Pole /24V Coil</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0003B</CODE>
+        <NAME>NEICO Contactor 30 Amp /3Pole /24 VOL Coil ( NC303A7 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0004A</CODE>
+        <NAME>HARDLAND Contactor 50 Amp /3Pole /240VOL Coil</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0004B</CODE>
+        <NAME>Contactor 40 Amp /2Pole /240VOL Coil - FLOTEK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0005A</CODE>
+        <NAME>HARDLAND 40A/2POLE/24VOL COIL</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0006A</CODE>
+        <NAME>NEICO Contactor 30 Amp /2Pole /24VOL Coil - NC302A7</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0007A</CODE>
+        <NAME>Danfoss Contactor 047Ho211 ( 8 Amp-12Amp ) T1-16C</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0008A</CODE>
+        <NAME>Danfoss Contactor C19 , 24V,25Amp,3Pole-037H0021-13</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0009A</CODE>
+        <NAME>Danfoss Contactor CI 19,8Amp -037H0021-32 , 240V</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0010A</CODE>
+        <NAME>Danfoss AUX AUXILARY CONTACT-037H0111</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCON0011A</CODE>
+        <NAME>Danfoss AUX AUXILARY CONTACT-037H0112</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCOR0001A</CODE>
+        <NAME>6MM PVC Connector - Electro</NAME>
+        <UOM>STR</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCOR0001B</CODE>
+        <NAME>6MM PVC Connector -Heidelberg</NAME>
+        <UOM>STR</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCOR0002A</CODE>
+        <NAME>10MM PVC Connector -Electro</NAME>
+        <UOM>STR</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCOR0002B</CODE>
+        <NAME>10MM PVC Connector -Heidelberg</NAME>
+        <UOM>STR</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCOR0003A</CODE>
+        <NAME>16MM PVC Connector - Electro</NAME>
+        <UOM>STR</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCOR0003B</CODE>
+        <NAME>16MM PVC Connector -Heidelberg</NAME>
+        <UOM>STR</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCPL0001A</CODE>
+        <NAME>50W/240v Capsule Bulb - PROTACH</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCPL0002A</CODE>
+        <NAME>12V/50W Capsule Bulb 64440-Osram</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCPL0003A</CODE>
+        <NAME>12 V 20W Capsule Bulb 64425 Osram</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELCUP0001A</CODE>
+        <NAME>TER Energy Saving 13W Lamp Cup Type CFL</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELELC0001A</CODE>
+        <NAME>Schneider ELCB 63AMP 4 Pole 100MA -16815</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELELC0001B</CODE>
+        <NAME>Hager 63Amp/3Pole/100MA - 161645</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELELC0002A</CODE>
+        <NAME>Schneider ELCB 40AMP 4 Pole 100MA</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELELC0002B</CODE>
+        <NAME>Hager ELCB 40AMP 4 Pole 100MA-161644</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELELC0003A</CODE>
+        <NAME>Schneider ELCB 40AMP/2 Pole/100MA -16818</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELELC0003B</CODE>
+        <NAME>Hager 40A/2 Pole / 100MA ELCB 161641</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELELC0004A</CODE>
+        <NAME>Hager ELCB 40AMP 4 Pole 30MA-161638</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELEXF0001A</CODE>
+        <NAME>Xpelair 230MM Extract Fan</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELEXF0002A</CODE>
+        <NAME>Xpelair 150MM Extract Fan</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHAL0001A</CODE>
+        <NAME>Osram 150W Halogen Lamp 150W/NDL Power Star</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHAL0002A</CODE>
+        <NAME>Osram 70W Halogen Lamp 70W/NDL Power Star</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHAL0003A</CODE>
+        <NAME>Osram 120W -64696 ECO Halogen Lamp (120W=150W)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHAL0004A</CODE>
+        <NAME>Osram 120W -64695 ECO Halogen Lamp (120W=150W)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHAL0005A</CODE>
+        <NAME>Osram 160W -64698 ECO Halogen Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHAL0006A</CODE>
+        <NAME>Osram -4183212V/35W/120/G53 Flood Halogen Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHAL0006B</CODE>
+        <NAME>GE -10775 12V/35W/120/G53 (41832)Flood Halogen Lamp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHOL00001</CODE>
+        <NAME>12V/50W Spot Light Holder</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHOL00002</CODE>
+        <NAME>E-27 Bulb Holder Ceramic</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHOL00003</CODE>
+        <NAME>E-27 Bulb Holder PVC Type Holder</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHOL00004</CODE>
+        <NAME>Ring Light With Ring Light Holder</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELHPL0001A</CODE>
+        <NAME>Osram 35W/240V Halopar16 (64820FL)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELISR0001A</CODE>
+        <NAME>ABB S203 - C63Amp/3Pole/Isolator</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELISR0001B</CODE>
+        <NAME>Hager 63Amp/3Pole/Isolator</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELISR0002A</CODE>
+        <NAME>ABB 40A,3Pole Isolator( Rail Mounted )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELISR0002B</CODE>
+        <NAME>Hager 40A,3Pole Isolator -551018( Rail Mounted )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELISR0003A</CODE>
+        <NAME>ABB 40A,2Pole Isolator (Rail Mounted )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELISR0003B</CODE>
+        <NAME>40A,2Pole Isolator Hager -552240( Rail Mounted )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELLED0001A</CODE>
+        <NAME>12V/3W LED Spot Light Bixton</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELMCB0001A</CODE>
+        <NAME>ABB Breakers 32Amp Singal Pole SH201</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELMCB0001B</CODE>
+        <NAME>Hager Breakers MW132 32Amp Singal Pole</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELMCB0002A</CODE>
+        <NAME>Hager Breakers 20Amp Singal Pole MW120</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELMCB0002B</CODE>
+        <NAME>ABB Breakers C20Amp Singal Pole S231</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELMCB0003A</CODE>
+        <NAME>Hager Breakers 10Amp Singal Pole MW110</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELMCB0003B</CODE>
+        <NAME>ABB Breakers C10Amp Singal Pole</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELMLF0001A</CODE>
+        <NAME>Sinar Mirror Light Full Fittings BL201NMirror light 2 feet 1 x 20w</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELMLF0002A</CODE>
+        <NAME>AMBIENCE - Energy Saving Ultra Slim Mirror Light Fitting Small</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPCS0001A</CODE>
+        <NAME>Low Pressure Control Switch SLP 2565-Blue Wire</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPCS0001B</CODE>
+        <NAME>Low Pressure Control Switch SLP 2565-Blue Wire</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPCS0002A</CODE>
+        <NAME>High Pressure Control Switch SHP 400300-Black Wire</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPCS0002B</CODE>
+        <NAME>High Pressure Control Switch SHP 400300-Black Wire</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPLT0001A</CODE>
+        <NAME>15AMP 3Plug Top -Volex</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPLT0002A</CODE>
+        <NAME>13 Amp 3 Pin Plug Top - Volex</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPVB0001A</CODE>
+        <NAME>6 X 3 PVC Box - Precision</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPVB0001B</CODE>
+        <NAME>6 X 3 PVC Box - Hotach</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPVB0002A</CODE>
+        <NAME>3 X 3 PVC Box - Precision</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELPVB0002B</CODE>
+        <NAME>3 X 3 PVC Box - Hotach</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELREY0001A</CODE>
+        <NAME>ELECTROVISION TL1-16AMPOn Delay Under Voltage Relay 220/380 -50/60HZ
+            Model-TR15-UV103-10A
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELREY0002A</CODE>
+        <NAME>SCHNEIDER TL1-16AMP On Delay Change Over Relay 24Vol -50/60HZ</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELREY0003A</CODE>
+        <NAME>30AMP Relay ( Coil-220-240V )-Tubj</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELREY0004A</CODE>
+        <NAME>Under Voltage Relay Broyce M1 TVR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELREY0005A</CODE>
+        <NAME>Overload Danfoss 450L0D T116 DS (047H0209 ) 4Amp-6.2 Amp</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELRIL0001A</CODE>
+        <NAME>Hitachi 22W ( Ring Light ) FC8-9/D Day Light</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSPL0001A</CODE>
+        <NAME>12V/ 50W OSRAM Hotspot Light DECOCOVER 48870</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSPL0002A</CODE>
+        <NAME>12V/ 50W OSRAM Hotspot Light DECOCOVER 44870</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSPL0002B</CODE>
+        <NAME>GE 12V/50W Spot Light</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSPL0003A</CODE>
+        <NAME>12V/ 50W OSRAM Hotspot Light DECOCOVER 41870 Warm White With Out Glass</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSPL0004A</CODE>
+        <NAME>PROTACH Spot Light 50W / 220V</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSPL0005A</CODE>
+        <NAME>12V/ 20W OSRAM Hotspot Light</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSTA0001A</CODE>
+        <NAME>S-2 Starter-Philips</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSTA0002A</CODE>
+        <NAME>S-10 Starter- Philips</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWI0001A</CODE>
+        <NAME>MK - K 4870 Whi -10Amp1G 1Way Switch</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWI0002A</CODE>
+        <NAME>MK -WHI 10Amp 2Gang 1Way Switch (S8872)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWI0002B</CODE>
+        <NAME>Volex 10Amp 2Gang 1way Switch</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWI0003A</CODE>
+        <NAME>MK -10Amp 3Gang 1Way Switch</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWI0004A</CODE>
+        <NAME>MK - 10Amp1G 2Way Switch</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWI0005A</CODE>
+        <NAME>MK -WHI 10Amp 2Gang 2Way Switch K4872</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWI0006A</CODE>
+        <NAME>MK - K 4873 Whi -10Amp3G 2Way Switch</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWS0001A</CODE>
+        <NAME>20Amp DP Switch M.K. K-5423</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWS0002A</CODE>
+        <NAME>15AMP Single Switch Socket ( VX 9900 )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWS0003A</CODE>
+        <NAME>K2747 White -13Amp 2 Gang Switch Socket -MK-UK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWS0004A</CODE>
+        <NAME>S2747 White -13Amp 2 Gang Switch Socket -MK-UK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWS0004B</CODE>
+        <NAME>Volex 13Amp / 2 Gang Switch Socket</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWS0005A</CODE>
+        <NAME>K2757 White -13Amp 1 Gang Switch Socket -MK-UK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELSWS0005B</CODE>
+        <NAME>Volex 13Amp / 1 Gang Switch Socket</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTHR00001</CODE>
+        <NAME>Honeywell Digital Thermostat T6812DP08/220V</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTIM0001A</CODE>
+        <NAME>Hager Timer 24 HRS Hager 228110</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRA0001A</CODE>
+        <NAME>Osram 12V/60W Electronic Transformer</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRA0002A</CODE>
+        <NAME>Osram Electronic Digital Ballast 1x18W</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRA0003A</CODE>
+        <NAME>1X3W LED Lamp Transformer</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0001A</CODE>
+        <NAME>Osram HO80W/865 Cool Day Light 5Ft Tube Rod</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0002A</CODE>
+        <NAME>Osram L58W/765 Basic Cool Day Light T8 - 5Feet Tube Rod</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0003A</CODE>
+        <NAME>Cool Day Light 4Ft Tube Rod, Osram HO54W/865</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0004A</CODE>
+        <NAME>5Feet Tube Rod Full Fittings 35W Ultra Slim - ATE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0005A</CODE>
+        <NAME>36W/765 4Feet Flocursent Tube Rod - Osram</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0006A</CODE>
+        <NAME>Cool Day Light 5Ft Tube Rod, Osram HE35W/865</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0007A</CODE>
+        <NAME>Cool Day Light 4Ft Tube Rod, Osram HE28W/865</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0008A</CODE>
+        <NAME>Osram HO24W/840Cool White 2Ft Tube Rod,</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0009A</CODE>
+        <NAME>18W/765 2Feet Flocursent Tube Rod - Osram</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0010A</CODE>
+        <NAME>Osram HE14W/830 Warm White 2Ft Tube Rod</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0011A</CODE>
+        <NAME>Osram HE14W/865 Warm White 2Ft Tube Rod</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELTRD0012A</CODE>
+        <NAME>Osram 8W/640 T5 EMERGENCY Tube Rod</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELWPI0001A</CODE>
+        <NAME>63A/4Ploe PVC Isolator WP- Hager</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELWPI0002A</CODE>
+        <NAME>40A/4Ploe PVC Isolator WP- Hager</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>ELWPI0003A</CODE>
+        <NAME>20A/2Ploe PVC Isolator WP- Hager</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>FA</CODE>
+        <NAME>Fixed Asset Code</NAME>
+        <UOM>NA</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBC00001</CODE>
+        <NAME>Navy Blue Colour Bump Cap With RTA Logo</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBE00001</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Beige Colour ( For Technician )
+            Size-XS
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBE00002</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Beige Colour ( For Technician )
+            Size-Small
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBE00003</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Beige Colour ( For Technician )
+            Size-Medium
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBE00004</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Beige Colour ( For Technician )
+            Size-Large
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBE00005</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Beige Colour ( For Technician )
+            Size-XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBE00006</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Beige Colour ( For Technician )
+            Size-2XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBE00007</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Beige Colour ( For Technician )
+            Size-3XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBJ0001A</CODE>
+        <NAME>2Buttoned jacket for Ladies polywool Gaberdine Grey For ADMIN &amp; RECEPTIONIST
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBK00001</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Black Colour ( For Technician )
+            Size-XS
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBL00001</CODE>
+        <NAME>3/4 Sleeves Blouse Covered Placket ( Light Blue ) As Per Measurement</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBL00002</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Black Colour ( For Technician )
+            Size-Small
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBL00003</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Black Colour ( For Technician )
+            Size-Medium
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBL00004</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Black Colour ( For Technician )
+            Size-Large
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBL00005</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Black Colour ( For Technician )
+            Size-XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBL00006</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Black Colour ( For Technician )
+            Size-2XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBL00007</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Black Colour ( For Technician )
+            Size-3XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00001</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-28
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00002</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-29
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00003</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-30
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00004</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-31
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00005</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-32
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00006</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-33
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00007</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-34
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00008</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-35
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00009</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-36
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00010</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-37
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00011</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-38
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00012</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-39
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00013</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-40
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00014</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-41
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBP00015</CODE>
+        <NAME>Black Flat Front Trouser ( 65/35 ) Poly Cotton With CB Logo For Facility
+            Manager,Consierge Size-42
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBR0001A</CODE>
+        <NAME>Blazer Polywool With Cofely Besix Logo</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00001</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-28</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00002</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-29</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00003</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-30</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00004</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-31</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00005</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-32</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00006</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-33</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00007</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-34</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00008</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-35</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00009</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-36</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00010</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-37</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00011</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-38</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00012</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-39</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00013</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-40</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00014</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-41</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBT00015</CODE>
+        <NAME>Navy Blue Colour Trouser With Orange Colour Strips With RTA Logo Size- W-42</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00001</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-28
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00002</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-29
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00003</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-30
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00004</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-31
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00005</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-32
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00006</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-33
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00007</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-34
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00008</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-35
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00009</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-36
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00010</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-37
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00011</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-38
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00012</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-39
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00013</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-40
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00014</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-41
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEBV00015</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Viscose With CB Logo For
+            Admin,Reception,Office Boy Size-42
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSECT00001</CODE>
+        <NAME>Cotton Material Navy Blue T-Shirt With RTA Logo Size- XS</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSECT00002</CODE>
+        <NAME>Cotton Material Navy Blue T-Shirt With RTA Logo Size- Small</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSECT00003</CODE>
+        <NAME>Cotton Material Navy Blue T-Shirt With RTA Logo Size- Medium</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSECT00004</CODE>
+        <NAME>Cotton Material Navy Blue T-Shirt With RTA Logo Size- Large</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSECT00005</CODE>
+        <NAME>Cotton Material Navy Blue T-Shirt With RTA Logo Size- XL</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSECT00006</CODE>
+        <NAME>Cotton Material Navy Blue T-Shirt With RTA Logo Size- 2XL</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSECT00007</CODE>
+        <NAME>Cotton Material Navy Blue T-Shirt With RTA Logo Size- 3XL</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGR00001</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Grey Colour ( For Technician ) Size-XS
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGR00002</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Grey Colour ( For Technician )
+            Size-Small
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGR00003</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Grey Colour ( For Technician )
+            Size-Medium
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGR00004</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Grey Colour ( For Technician )
+            Size-Large
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGR00005</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Grey Colour ( For Technician ) Size-XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGR00006</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Grey Colour ( For Technician )
+            Size-2XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGR00007</CODE>
+        <NAME>Cool Plus Polo T-SHIRT With Cofely Besix Logo Grey Colour ( For Technician )
+            Size-3XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGT00001</CODE>
+        <NAME>Navy Blue Flat Front Trouser (60/40)Poly Cotton ( For Technicians ) Size-28</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGT00002</CODE>
+        <NAME>Navy Blue Flat Front Trouser (60/40)Poly Cotton ( For Technicians ) Size-30</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGT00003</CODE>
+        <NAME>Navy Blue Flat Front Trouser (60/40)Poly Cotton ( For Technicians ) Size-32</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGT00004</CODE>
+        <NAME>Navy Blue Flat Front Trouser (60/40)Poly Cotton ( For Technicians ) Size-34</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGT00005</CODE>
+        <NAME>Navy Blue Flat Front Trouser (60/40)Poly Cotton ( For Technicians ) Size-36</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGT00006</CODE>
+        <NAME>Navy Blue Flat Front Trouser (60/40)Poly Cotton ( For Technicians ) Size-38</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGT00007</CODE>
+        <NAME>Navy Blue Flat Front Trouser (60/40)Poly Cotton ( For Technicians ) Size-40</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEGT00008</CODE>
+        <NAME>Navy Blue Flat Front Trouser (60/40)Poly Cotton ( For Technicians ) Size-42</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEHE0001A</CODE>
+        <NAME>Safety Helmet White Colour - JSP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEHE0001B</CODE>
+        <NAME>Safety Helmet White Colour - Viking</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEHE0002A</CODE>
+        <NAME>Safety Helmet Blue Colour - JSP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEHE0002B</CODE>
+        <NAME>Safety Helmet Blue Colour - Viking</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEHE0003A</CODE>
+        <NAME>Safety Helmet Yellow Colour - JSP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEHE0003B</CODE>
+        <NAME>Safety Helmet Yellow Colour - Viking</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEJT00001</CODE>
+        <NAME>Navy Blue Colour Sports Jersey T-Shirt With RTA Logo ( Size- XS )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEJT00002</CODE>
+        <NAME>Navy Blue Colour Sports Jersey T-Shirt With RTA Logo ( Size- Small )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEJT00003</CODE>
+        <NAME>Navy Blue Colour Sports Jersey T-Shirt With RTA Logo ( Size- Medium )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEJT00004</CODE>
+        <NAME>Navy Blue Colour Sports Jersey T-Shirt With RTA Logo ( Size- Large )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEJT00005</CODE>
+        <NAME>Navy Blue Colour Sports Jersey T-Shirt With RTA Logo ( Size- XL )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEJT00006</CODE>
+        <NAME>Navy Blue Colour Sports Jersey T-Shirt With RTA Logo ( Size- 2XL )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEJT00007</CODE>
+        <NAME>Navy Blue Colour Sports Jersey T-Shirt With RTA Logo ( Size- 3XL )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEKG00001</CODE>
+        <NAME>Rubber Hand Gloves</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEKG00002</CODE>
+        <NAME>Cotton Hand Gloves</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEKG00003</CODE>
+        <NAME>Heavy Duty Hand Gloves Yellow</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELB00001</CODE>
+        <NAME>Long Sleeve Filafil Shirt Blue With Cofely Besix Logo For Facility Manager Size-XS
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELB00002</CODE>
+        <NAME>Long Sleeve Filafil Shirt Blue With Cofely Besix Logo For Facility Manager
+            Size-Small
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELB00003</CODE>
+        <NAME>Long Sleeve Filafil Shirt Blue With Cofely Besix Logo For Facility Manager
+            Size-Large
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELB00004</CODE>
+        <NAME>Long Sleeve Filafil Shirt Blue With Cofely Besix Logo For Facility Manager Size-XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELB00005</CODE>
+        <NAME>Long Sleeve Filafil Shirt Blue With Cofely Besix Logo For Facility Manager Size-2XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELB00006</CODE>
+        <NAME>Long Sleeve Filafil Shirt Blue With Cofely Besix Logo For Facility Manager Size-3XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00001</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-37</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00002</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-38</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00003</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-39</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00004</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-40</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00005</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-41</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00006</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-42</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00007</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-43</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00008</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-44</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00009</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-45</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELS00010</CODE>
+        <NAME>Liberty Fortune High Flexible Shoe Model -7139-02 Size-46</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELT00001</CODE>
+        <NAME>LADIES T-SHIRT WHITE As Per Measurement</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELW00001</CODE>
+        <NAME>Long Sleeve T/C Cotton (65/35)White Shirt, CB Logo Admin,Concierge,Reception,Office
+            Boy - Size -XS
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELW00002</CODE>
+        <NAME>Long Sleeve T/C Cotton (65/35)White Shirt , CB Logo Admin,Concierge,Reception,Office
+            Boy-Size-Small
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELW00003</CODE>
+        <NAME>Long Sleeve T/C Cotton (65/35)White Shirt , CB Logo Admin,Concierge,Reception,Office
+            Boy-Size-Medium
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELW00004</CODE>
+        <NAME>Long Sleeve T/C Cotton (65/35)White Shirt , CB Logo Admin,Concierge,Reception,Office
+            Boy-Size-Large
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELW00005</CODE>
+        <NAME>Long Sleeve T/C Cotton (65/35)White Shirt With CB Logo
+            Admin,Concierge,Reception,Office Boy-Size-XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSELW00006</CODE>
+        <NAME>Long Sleeve T/C Cotton (65/35)White Shirt With CB Logo
+            Admin,Concierge,Reception,Office Boy-Size-2XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEMA0001A</CODE>
+        <NAME>3M Mask N95 ( 3M-8210 ) 1 X 20</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEMA0002A</CODE>
+        <NAME>Dust Mask ( Normal ) 1 X 50</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00001</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-28
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00002</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-29
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00003</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-30
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00004</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-31
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00005</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-32
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00006</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-33
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00007</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-34
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00008</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-35
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00009</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-36
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00010</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-37
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00011</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-38
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00012</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-39
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00013</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-40
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00014</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-41
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSENT00015</CODE>
+        <NAME>Navey Blue Flat Front Trouser ( 60/40 ) Poly Cotton With CB Logo For Supervisors &amp;
+            Cleaners Size-42
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEOT00001</CODE>
+        <NAME>Flourescent Orange T-Shirt With RTA Logo ( Size- XS )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEOT00002</CODE>
+        <NAME>Flourescent Orange T-Shirt With RTA Logo ( Size- Small )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEOT00003</CODE>
+        <NAME>Flourescent Orange T-Shirt With RTA Logo ( Size- Medium )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEOT00004</CODE>
+        <NAME>Flourescent Orange T-Shirt With RTA Logo ( Size- Large )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEOT00005</CODE>
+        <NAME>Flourescent Orange T-Shirt With RTA Logo ( Size- XL )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEOT00006</CODE>
+        <NAME>Flourescent Orange T-Shirt With RTA Logo ( Size- 2XL )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEOT00007</CODE>
+        <NAME>Flourescent Orange T-Shirt With RTA Logo ( Size- 3XL )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESG0001A</CODE>
+        <NAME>Safety Spectacles Dark Colour</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESG0001B</CODE>
+        <NAME>Safety Spectacles Dark Colour</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESG0002A</CODE>
+        <NAME>Safety Googles Clear CHIC</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESH0001A</CODE>
+        <NAME>Full Body Safety Harness SL-10100 With Energy Absorbing Lanyard-SL15100</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESH0001B</CODE>
+        <NAME>Full Body Safety Harness With Energy Absorbing Lanyard - Deltaplus</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESJ00001</CODE>
+        <NAME>STORM JACKET Unisex,Micro Fiber Fabric, Polyester Blend, No Inner Liner, No Logo (
+            Size- XS )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESJ00002</CODE>
+        <NAME>STORM JACKET Unisex,Micro Fiber Fabric, Polyester Blend, No Inner Liner, No Logo (
+            Size- Small )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESJ00003</CODE>
+        <NAME>STORM JACKET Unisex,Micro Fiber Fabric, Polyester Blend, No Inner Liner, No Logo (
+            Size- Medium )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESJ00004</CODE>
+        <NAME>STORM JACKET Unisex,Micro Fiber Fabric, Polyester Blend, No Inner Liner, No Logo(
+            Size- LARGE )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESJ00005</CODE>
+        <NAME>STORM JACKET Unisex,Micro Fiber Fabric, Polyester Blend, No Inner Liner, No Logo (
+            Size- XL)
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESJ00006</CODE>
+        <NAME>STORM JACKET Unisex,Micro Fiber Fabric, Polyester Blend, No Inner Liner, No Logo (
+            Size- 2XL )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESJ00007</CODE>
+        <NAME>STORM JACKET Unisex,Micro Fiber Fabric, Polyester Blend, No Inner Liner, No Logo (
+            Size- 3XL )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00001</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-37</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00002</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-38</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00003</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-39</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00004</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-40</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00005</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-41</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00006</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-42</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00007</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-43</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00008</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-44</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00009</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-45</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESS00010</CODE>
+        <NAME>Safety Shoe Oxford Low Ankle Style 59351-SM Saudia Size-46</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEST00001</CODE>
+        <NAME>Slim Fit Trouser Polywool Gaberdine ,Grey As Per Measurement</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESV00001</CODE>
+        <NAME>High Visibility Safety Flourescent Net Type JKT Orange, CB Logo Back Side &amp; Front
+            Side Size- XS
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESV00002</CODE>
+        <NAME>High Visibility Safety Flourescent Net Type Jkt Orange, CB Logo Back Side &amp; Front
+            Side Size- Small
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESV00003</CODE>
+        <NAME>High Visibility Safety Flourescent Net Type JKT Orange, CB Logo Back Side &amp; Front
+            Side Size-Medium
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESV00004</CODE>
+        <NAME>High Visibility Safety Flourescent Net Type JKT Orange , CB Logo Back Side &amp; Front
+            Side Size- Large
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESV00005</CODE>
+        <NAME>High Visibility Safety Flourescent Net Type Jacket Orange , CB Logo Back Side &amp;
+            Front Side Size- XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESV00006</CODE>
+        <NAME>High Visibility Safety Flourescent Net Type Jacket Orange , CB Logo Back Side &amp;
+            Front Side Size- 2XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESV00007</CODE>
+        <NAME>High Visibility Safety Flourescent Net Type Jacket Orange , CB Logo Back Side &amp;
+            Front Side Size- 3XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESW00001</CODE>
+        <NAME>Short Sleeve T/C Cotton ( 65/35 ) White Shirt With CB Logo For Supervisor &amp;
+            Drivers ( Size - XS )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESW00002</CODE>
+        <NAME>Short Sleeve T/C Cotton ( 65/35 ) White Shirt With CB Logo For Supervisor &amp;
+            Drivers ( Size - Small )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESW00003</CODE>
+        <NAME>Short Sleeve T/C Cotton ( 65/35 ) White Shirt , CB Logo For Supervisor &amp; Drivers (
+            Size - Medium )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESW00004</CODE>
+        <NAME>Short Sleeve T/C Cotton ( 65/35 ) White Shirt With CB Logo For Supervisor &amp;
+            Drivers ( Size - Large )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESW00005</CODE>
+        <NAME>Short Sleeve T/C Cotton ( 65/35 ) White Shirt With CB Logo For Supervisor &amp;
+            Drivers ( Size - XL )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESW00006</CODE>
+        <NAME>Short Sleeve T/C Cotton ( 65/35 ) White Shirt With CB Logo For Supervisor &amp;
+            Drivers ( Size - 2XL )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSESW00007</CODE>
+        <NAME>Short Sleeve T/C Cotton ( 65/35 ) White Shirt With CB Logo For Supervisor &amp;
+            Drivers ( Size - 3XL )
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00001</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-28
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00002</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-29
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00003</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-30
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00004</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-31
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00005</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-32
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00006</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-33
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00007</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-34
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00008</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-35
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00009</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-36
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00010</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-37
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00011</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-38
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00012</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-39
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00013</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-40
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00014</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-41
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETB00015</CODE>
+        <NAME>Black Flat Front Trouser ( 60/40 ) Poly Cotton With Cofely Besix Logo For Drivers
+            Size-42
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETJ00001</CODE>
+        <NAME>TORNADO JACKET Unisex "Combo Micro Fiber &amp; Fleece" fabric with CBFM Logo Size-
+            XS
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETJ00002</CODE>
+        <NAME>TORNADO JACKET Unisex "Combo Micro Fiber &amp; Fleece" fabric design with CBFM Logo
+            Size- Small
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETJ00003</CODE>
+        <NAME>TORNADO JACKET Unisex "Combo Micro Fiber &amp; Fleece" fabric design with CBFM Logo
+            Size- Medium
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETJ00004</CODE>
+        <NAME>TORNADO JACKET Unisex "Combo Micro Fiber &amp; Fleece" fabric design with CBFM Logo
+            Size- Large
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETJ00005</CODE>
+        <NAME>TORNADO JACKET Unisex "Combo Micro Fiber &amp; Fleece" fabric design with CBFM Logo
+            Size- XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETJ00006</CODE>
+        <NAME>TORNADO JACKET Unisex "Combo Micro Fiber &amp; Fleece" fabric design with CBFM Logo
+            Size- 2XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSETJ00007</CODE>
+        <NAME>TORNADO JACKET Unisex "Combo Micro Fiber &amp; Fleece" fabric design with CBFM Logo
+            Size- 3XL
+        </NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00001</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-37</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00002</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-38</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00003</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-39</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00004</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-40</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00005</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-41</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00006</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-42</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00007</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-43</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00008</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-44</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00009</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-45</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>HSEWL00010</CODE>
+        <NAME>Safety Shoe Style-4444 With Out Lace Saudia Size-46</NAME>
+        <UOM>PAR</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIBC0001A</CODE>
+        <NAME>Business Card Holder-FIS</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIBD0001A</CODE>
+        <NAME>White Board</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIBD0002A</CODE>
+        <NAME>Fabric Board Blur Colour 120 x 180</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIBD0003A</CODE>
+        <NAME>Colour With Board Magnets</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIBF0001A</CODE>
+        <NAME>Box File - RIGID</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIBF0002A</CODE>
+        <NAME>Spring File</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00001</CODE>
+        <NAME>PRINTER KYOCERA ECOSYS M2535 DN CARTRIDGE TK-1140</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00002</CODE>
+        <NAME>PRINTER KYOCERA ECOSYS P6026 CARTRIDGE TK590Y YELLOW</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00003</CODE>
+        <NAME>PRINTER KYOCERA ECOSYS P6026 CARTRIDGE TK590C CYAN</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00004</CODE>
+        <NAME>PRINTER KYOCERA ECOSYS P6026 CARTRIDGE TK590M MAGENTA</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00005</CODE>
+        <NAME>PRINTER KYOCERA ECOSYS P6026 CARTRIDGE TK590K BLACK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00006</CODE>
+        <NAME>CANON 445 BLACK CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00007</CODE>
+        <NAME>CANON 446 CLR CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00008</CODE>
+        <NAME>BLACK CARTRIDGE 55A FOR HP P3015</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00009</CODE>
+        <NAME>HP BLACK CARTRIDGE - CF 210A</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00010</CODE>
+        <NAME>HP CYAN CARTRIDGE - CF 211A</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00011</CODE>
+        <NAME>HP YELLOW CARTRIDGE - CF 212A</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00012</CODE>
+        <NAME>HP MAGENTA CARTRIDGE - CF 213A</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00013</CODE>
+        <NAME>HP 650 BLACK INK CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00014</CODE>
+        <NAME>HP 650 TRI COLOR INK CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00015</CODE>
+        <NAME>HP CE 250A BLACK CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00016</CODE>
+        <NAME>HP CE 251A CYAN CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00017</CODE>
+        <NAME>HP CE 252 A YELLOW CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00018</CODE>
+        <NAME>HP CE 253 A MAGENTA CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00019</CODE>
+        <NAME>HP CE 270A BLACK CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA0001A</CODE>
+        <NAME>Calculator</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00020</CODE>
+        <NAME>HP CE 271A CYAN CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00021</CODE>
+        <NAME>HP CE 272A YELLOW CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00022</CODE>
+        <NAME>HP CE 273A MAGENTA CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00023</CODE>
+        <NAME>HP CARTRIDGE CE400A BLACK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00024</CODE>
+        <NAME>HP CARTRIDGE CE401A CYAN</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00025</CODE>
+        <NAME>HP CARTRIDGE CE402A YELLOW</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00026</CODE>
+        <NAME>HP CARTRIDGE CE403A MAJENTA</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00027</CODE>
+        <NAME>HP LJ 49A CARTRIDGE Q5949A</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00028</CODE>
+        <NAME>HP C9732A YELLOW CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00029</CODE>
+        <NAME>HP C9731A CYAN CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00030</CODE>
+        <NAME>HP C9733A MAGENTA CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00031</CODE>
+        <NAME>HP BLACK CARTRIDGE 9730A</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00032</CODE>
+        <NAME>HP 122 BLACK CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00033</CODE>
+        <NAME>HP 122 COLOUR CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00034</CODE>
+        <NAME>HP CB540A BLACK CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00035</CODE>
+        <NAME>HP CB541A CYAN CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00036</CODE>
+        <NAME>HP CB542A YELLOW CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00037</CODE>
+        <NAME>HP CB543A MAGENTA CARTRIDGE</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00038</CODE>
+        <NAME>HP LASER JET TONER 125A BLACK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICA00039</CODE>
+        <NAME>CE505A BLACK TONER FOR HP LASER JET PRINTER P2055</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICL0001A</CODE>
+        <NAME>Binder Clips 50MM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICL0002A</CODE>
+        <NAME>Binder Clips 45MM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICL0003A</CODE>
+        <NAME>Binder Clips 40MM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICP0001A</CODE>
+        <NAME>Correction Pen ( Each Box 12 Nos )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICT0001A</CODE>
+        <NAME>2" Cello Tape</NAME>
+        <UOM>ROLL</UOM>
+    </Table>
+    <Table>
+        <CODE>OSICT0002A</CODE>
+        <NAME>1/2" Cello Tape</NAME>
+        <UOM>ROLL</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDC0001A</CODE>
+        <NAME>Imation DVD ( Each PKT 10 Nos )</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDC0002A</CODE>
+        <NAME>Imation CD ( Each Box 100 Nos )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDC0003A</CODE>
+        <NAME>CD Pouch ( Each PKT- 100 Nos )</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDC0004A</CODE>
+        <NAME>Binder Clips 32MM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDC0005A</CODE>
+        <NAME>Binder Clips 25MM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDC0006A</CODE>
+        <NAME>Binder Clips 20MM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDI00003</CODE>
+        <NAME>Divider - White 1 X 100</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDI00004</CODE>
+        <NAME>Divider - Blue 1 X 100</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDI00005</CODE>
+        <NAME>Divider - Yellow 1 X 100</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDI00006</CODE>
+        <NAME>Divider - Green 1 X 100</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDI00007</CODE>
+        <NAME>Divider - Pink 1 X 100</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDI0001A</CODE>
+        <NAME>Divider - A TO Z</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDI0002A</CODE>
+        <NAME>Divider - Jan TO Dec</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIDO0001A</CODE>
+        <NAME>Desk Organiser</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIEN00001</CODE>
+        <NAME>Brown Envelope 4.5" X 9.5"</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIEN00002</CODE>
+        <NAME>Brown Envelope Size A-4 ( Each Pkt- 250 Nos )</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIEN00003</CODE>
+        <NAME>Salary Envelope ( 1 X 1000 )</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIER0001A</CODE>
+        <NAME>FIS Ereser</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIGL0001A</CODE>
+        <NAME>FIS Glue</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIHL0001A</CODE>
+        <NAME>High Lighter Faber Castle- Yellow</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIHL0002A</CODE>
+        <NAME>High Lighter Faber Castle- Green</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIHL0003A</CODE>
+        <NAME>High Lighter Faber Castle- Blue</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIHL0004A</CODE>
+        <NAME>High Lighter Faber Castle-Pink</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIIP0001A</CODE>
+        <NAME>Self Ink Pad</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSILP0001A</CODE>
+        <NAME>Letter Pad Size-A-4</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSINB0001A</CODE>
+        <NAME>FIS A-5 Note Book</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSINB0002A</CODE>
+        <NAME>Note Book - 9" x 7" 2Q</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSINB0003A</CODE>
+        <NAME>Paperline Short Hand Book 5" X 8"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSINB0004A</CODE>
+        <NAME>Sinarline Short Hand Note Book</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSINC0001A</CODE>
+        <NAME>Name Card Holder Refill Durable ( 1 X 10 Sheet )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSINC0002A</CODE>
+        <NAME>Name Card Refill</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPA0001A</CODE>
+        <NAME>A-4 Size Paper -Chemex</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPA0002A</CODE>
+        <NAME>A-3 Size Paper -Chemex</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPA0003A</CODE>
+        <NAME>Thick Paper A-4 -200GSM</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPC0001A</CODE>
+        <NAME>Paper Clip SAX33</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPE0001A</CODE>
+        <NAME>UNIBALL 207- Blue Colour ( Each Box -12 Nos )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPE0002A</CODE>
+        <NAME>UNIBALL 207- Black Colour ( Each Box -12 Nos )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPE0003A</CODE>
+        <NAME>UNIBALL 207- Red Colour ( Each Box -12 Nos )</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPE0004A</CODE>
+        <NAME>Faber Castle Pen Blue Colour Each Box -50 Nos</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPE0005A</CODE>
+        <NAME>Faber Castle Pen Black Colour Each Box -50 Nos</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPE0006A</CODE>
+        <NAME>Faber Castle Pen Red Colour Each Box -50 Nos</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPF0001A</CODE>
+        <NAME>A-4 Size Plastic Folder</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPL0001A</CODE>
+        <NAME>Dolphin Pencil Each Box -12 Nos</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPL0002A</CODE>
+        <NAME>Faber Castle Pencil Each Box -12 Nos</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPL0003A</CODE>
+        <NAME>Elsoon Pencil Sharpener</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPM0001A</CODE>
+        <NAME>Permanent Marker- Black Colour Each Box 12 Nos</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPM0002A</CODE>
+        <NAME>Permanent Marker- Blue Colour Each Box 12 Nos</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPM0003A</CODE>
+        <NAME>Permanent Marker- Red Colour Each Box 12 Nos</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPM0004A</CODE>
+        <NAME>Twin Marker Piolt Black</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPP0001A</CODE>
+        <NAME>Paper Punch 4 Hole</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPP0002A</CODE>
+        <NAME>Paper Punch 2 Hole Kangaroo</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPP0003A</CODE>
+        <NAME>Post Id Pad 2" X 3"</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPP0004A</CODE>
+        <NAME>Post Id Pad 2" X 1 1/2""</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPT0001A</CODE>
+        <NAME>Paper Tray - Metal</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIPT0002A</CODE>
+        <NAME>Paper Tray - Plastic</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRB0001A</CODE>
+        <NAME>4Ring Binder - A-3 FIS</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRB0002A</CODE>
+        <NAME>2Ring Binder -10MM - FIS</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRB0003A</CODE>
+        <NAME>2Ring Binder -20MM - FIS</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRB0004A</CODE>
+        <NAME>2Ring Binder -35MM - FIS</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRB0005A</CODE>
+        <NAME>2Ring Binder -50MM - FIS</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRB0006A</CODE>
+        <NAME>2Ring Binder -60MM -FIS</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRD0001A</CODE>
+        <NAME>Rubber Band - Big</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRD0002A</CODE>
+        <NAME>Rubber Band - Medium</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRD0003A</CODE>
+        <NAME>Rubber Band - Small</NAME>
+        <UOM>BOX</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRS00001</CODE>
+        <NAME>CBFM Company Stamp With Address</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRU0001A</CODE>
+        <NAME>Ruler - Plastic</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSIRU0002A</CODE>
+        <NAME>Ruler - Steel</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSISN0001A</CODE>
+        <NAME>Post Id Pad 3" X 5"</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSISN0002A</CODE>
+        <NAME>Post Id Pad 3" X 3"</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSISP0001A</CODE>
+        <NAME>Max HD Stapler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSISP0002A</CODE>
+        <NAME>Stapler Pin Rexel</NAME>
+        <UOM>PKT</UOM>
+    </Table>
+    <Table>
+        <CODE>OSISP0003A</CODE>
+        <NAME>Stapler Pin Romover</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSISS0001A</CODE>
+        <NAME>Signature Book</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITB0001A</CODE>
+        <NAME>Thermal Binding Machine Fellowes Helios 60</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITB0002A</CODE>
+        <NAME>Thermal Binding Sheet 12MM</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITB0003A</CODE>
+        <NAME>A-4 Lamination Sheet</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITB0004A</CODE>
+        <NAME>Binding Sheet ( Clear )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITB0005A</CODE>
+        <NAME>Binding Sheet ( Black )</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITR00001</CODE>
+        <NAME>TONER FOR UTAX CD1242 COPIER (COPY KIT 1242/1252)</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITR00002</CODE>
+        <NAME>UTAX TONER CD 5025,5030,256I,306I (BLACK AND WHITE PRINTER) COLOUR BLACK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITR00003</CODE>
+        <NAME>UTAX PRINTER CARTRIDGE TONER CD1028 / 1128</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITR00004</CODE>
+        <NAME>UTAX 256I TONER</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITR00005</CODE>
+        <NAME>COPY KIT CK-8510 BLACK FOR UTAX 2500CI</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITR00006</CODE>
+        <NAME>COPY KIT CK-8510 CYAN FOR UTAX 2500CI</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITR00007</CODE>
+        <NAME>COPY KIT CK-8510 YELLOW FOR UTAX 2500CI</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>OSITR00008</CODE>
+        <NAME>COPY KIT CK-8510 MAGENTA FOR UTAX 2500CI</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>P00001</CODE>
+        <NAME>Test Product</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLAC00001A</CODE>
+        <NAME>Acid Cleaner- Chemex ( 5 LTR )</NAME>
+        <UOM>GAL</UOM>
+    </Table>
+    <Table>
+        <CODE>PLAV00001A</CODE>
+        <NAME>1/2" Angle Valve ( Long Body )- Grohe 27940000</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLAV00001B</CODE>
+        <NAME>1/2" Angle Valve Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBM00001A</CODE>
+        <NAME>Bath Mixer , 33300001 - Grohe</NAME>
+        <UOM>NA</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBT00001A</CODE>
+        <NAME>1 1/2" PVC Bottle Trap</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBT00002A</CODE>
+        <NAME>1 1/4" PVC Bottle Trap</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBT00003A</CODE>
+        <NAME>1 1/2" CP Bottle Trap</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBT00004A</CODE>
+        <NAME>1 1/4" CP Bottle Trap</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBV00001A</CODE>
+        <NAME>2" CP Ball Valve - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBV00001B</CODE>
+        <NAME>2" CP Ball Valve - EURO</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBV00002A</CODE>
+        <NAME>1 1/2" CP Ball Valve - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBV00002B</CODE>
+        <NAME>1 1/2"CP Ball Valve - EURO</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBV00003A</CODE>
+        <NAME>1" CP Ball Valve - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBV00003B</CODE>
+        <NAME>1" CP Ball Valve - EURO</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBV00004A</CODE>
+        <NAME>3/4" CP Ball Valve - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLBV00004B</CODE>
+        <NAME>3/4" CP Ball Valve - EURO</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCCP0001A</CODE>
+        <NAME>2 Feet X 1/2" Flexble Connection Pipe - Copper Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCCP0002A</CODE>
+        <NAME>1 1/2 Feet X 1/2" Flexble Connection Pipe - Copper Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCCP0003A</CODE>
+        <NAME>1 Feet X 1/2" Flexble Connection Pipe - Copper Type</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCG00001A</CODE>
+        <NAME>PVC Cement Glue 500Ml - Tangit</NAME>
+        <UOM>TIN</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCG00001B</CODE>
+        <NAME>PVC Cement Glue 500Ml - Parabond</NAME>
+        <UOM>TIN</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCP00001A</CODE>
+        <NAME>1/2"x 10mm CP Extension Nipple</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCP00002A</CODE>
+        <NAME>1/2"x 15mm CP Extension Nipple</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCP00003A</CODE>
+        <NAME>1/2"x 20mm CP Extension Nipple</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCP00004A</CODE>
+        <NAME>1/2"x 25mm CP Extension Nipple</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCP00005A</CODE>
+        <NAME>CP Reducer Bush 3/4"X1/2"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCP00006A</CODE>
+        <NAME>CP Nipple 3/8" x 1/2" - Royal</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCT00001A</CODE>
+        <NAME>Cooler Tap , 30098001 - Grohe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLCT00001B</CODE>
+        <NAME>Cooler Tap , 746000 - Delabie</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFC00001A</CODE>
+        <NAME>Shower Pipe 5FEET X 1/2" PVC Coated Flexible pipe- Germany</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFC00002A</CODE>
+        <NAME>3 Feet X 1/2" Flexble Connection Pipe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFC00003A</CODE>
+        <NAME>2 Feet X 1/2" Flexble Connection Pipe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFC00004A</CODE>
+        <NAME>1 1/2 Feet X 1/2" Flexble Connection Pipe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFC00005A</CODE>
+        <NAME>1 Feet X 1/2" Flexble Connection pipe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFSE0001A</CODE>
+        <NAME>Float Switch Electrical 240 V / 8 AMP- Kistenmacher</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFT00001A</CODE>
+        <NAME>SS Floor Trap 6" x 6" - GFL</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFV00001A</CODE>
+        <NAME>1 1/4" Brass Foot Valve - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFV00002A</CODE>
+        <NAME>1" Brass Foot Valve - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFV00003A</CODE>
+        <NAME>3/4" Brass Foot Valve - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFVB0001A</CODE>
+        <NAME>2" Float Valve With Copper Ball Brass - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFVB0002A</CODE>
+        <NAME>2" Float Valve With Fiber Ball Brass - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFVB0003A</CODE>
+        <NAME>1 1/2" Float Valve With Copper Ball Brass - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFVB0004A</CODE>
+        <NAME>1 1/2" Float Valve With Fiber Ball Brass - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFVB0005A</CODE>
+        <NAME>1" Float Valve With Fiber Ball - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLFVB0006A</CODE>
+        <NAME>3/4" Float Valve with Fiber Ball -Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGT00001A</CODE>
+        <NAME>3/4" Garden Tap - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGT00002A</CODE>
+        <NAME>3/4" Garden Tap - Sanwa</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGT00003A</CODE>
+        <NAME>1/2" Garden Tap - Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGT00004A</CODE>
+        <NAME>1/2" Garden Tap- Sanwa</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGV00001A</CODE>
+        <NAME>Brass Gate Valve 2" Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGV00002A</CODE>
+        <NAME>Brass Gate Valve 1 1/2" Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGV00003A</CODE>
+        <NAME>Brass Gate Valve 1 1/4" Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGV00004A</CODE>
+        <NAME>Brass Gate Valve 1" Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGV00005A</CODE>
+        <NAME>Brass Gate Valve 3/4" Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLGV00006A</CODE>
+        <NAME>Brass Gate Valve 1/2" Pegler</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00001A</CODE>
+        <NAME>HP 1/2" X 6MTR PIPE</NAME>
+        <UOM>LEN</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00002A</CODE>
+        <NAME>HP 3/4" X 6MTR PIPE</NAME>
+        <UOM>LEN</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00003A</CODE>
+        <NAME>HP 1" X 6MTR PIPE</NAME>
+        <UOM>LEN</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00004A</CODE>
+        <NAME>HP 1 1/4" X 6MTR PIPE</NAME>
+        <UOM>LEN</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00005A</CODE>
+        <NAME>HP 1 1/2" X 6MTR PIPE</NAME>
+        <UOM>LEN</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00006A</CODE>
+        <NAME>HP 2" X 6MTR PIPE</NAME>
+        <UOM>LEN</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00007A</CODE>
+        <NAME>HP 1/2" X 45 Deg Elbow- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00008A</CODE>
+        <NAME>HP 1/2" X 90 Deg Elbow- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00009A</CODE>
+        <NAME>HP 3/4" X 45 Deg Elbow- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00010A</CODE>
+        <NAME>HP 3/4" X 90 Deg Elbow- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00011A</CODE>
+        <NAME>HP 1"x 45DEG ELBOW - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00012A</CODE>
+        <NAME>HP 1 " X 90 Deg Elbow - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00013A</CODE>
+        <NAME>HP 1 1/4" X 45Deg Elbow - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00014A</CODE>
+        <NAME>HP 1 1/4" X 90Deg Elbow - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00015A</CODE>
+        <NAME>HP 1 1/2 " X 45 Deg Elbow - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00016A</CODE>
+        <NAME>HP 1 1/2 " X 90 Deg Elbow - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00017A</CODE>
+        <NAME>HP 2 " X 45 Deg Elbow - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00018A</CODE>
+        <NAME>HP 2 " X 90 Deg Elbow - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00019A</CODE>
+        <NAME>HP 1/2" X 90 Deg Female Elbow- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00020A</CODE>
+        <NAME>HP 1/2" Female Tee- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00021A</CODE>
+        <NAME>HP 1/2" Socket - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00022A</CODE>
+        <NAME>HP 3/4"Socket - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00023A</CODE>
+        <NAME>HP 1" Socket - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00024A</CODE>
+        <NAME>HP 1 1/4" Socket- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00025A</CODE>
+        <NAME>HP 1 1/2" Socket- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00026A</CODE>
+        <NAME>HP 2" Socket-Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00027A</CODE>
+        <NAME>HP 1/2" Equal Tee - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00028A</CODE>
+        <NAME>HP 3/4"Equal Tee - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00029A</CODE>
+        <NAME>HP 1" Equal Tee - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00030A</CODE>
+        <NAME>HP 1 1/4" Equal Tee - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00031A</CODE>
+        <NAME>HP 1 1/2" Equal Tee - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00032A</CODE>
+        <NAME>HP 1/2" Female Adaptor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00033A</CODE>
+        <NAME>HP 3/4" Female Adaptor- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00034A</CODE>
+        <NAME>HP 1" Female Adaptor - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00035A</CODE>
+        <NAME>HP 1 1/4" Female Socket - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00036A</CODE>
+        <NAME>HP 1 1/2" Female Socket - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00037A</CODE>
+        <NAME>HP 1/2" Male Adaptor</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00038A</CODE>
+        <NAME>HP 3/4" Male Adaptor- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00039A</CODE>
+        <NAME>HP 1" Male Socket - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00040A</CODE>
+        <NAME>HP 1 1/4" Male Socket - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00041A</CODE>
+        <NAME>HP 1 1/2" Male Socket - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00042A</CODE>
+        <NAME>HP 1/2" Union- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00043A</CODE>
+        <NAME>HP 3/4" Union - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00044A</CODE>
+        <NAME>HP 1" Union - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00045A</CODE>
+        <NAME>HP 1 1/4" Union - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00046A</CODE>
+        <NAME>HP 1 1/2" Union - Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00047A</CODE>
+        <NAME>HP 2" Union</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00048A</CODE>
+        <NAME>HP 2" X 3/4" Reducer Bush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00049A</CODE>
+        <NAME>HP 2" X 1" Reducer Bush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00050A</CODE>
+        <NAME>HP 2" X 1 1/2" Reducer Bush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00051A</CODE>
+        <NAME>HP 1 1/2" x 1 1/4" Reducer Bush- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00052A</CODE>
+        <NAME>HP 1 1/4" X 3/4" Reducer Bush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00053A</CODE>
+        <NAME>HP 1 1/4" x 1" Reducer Bush- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00054A</CODE>
+        <NAME>HP 1" X 3/4" Reducer Bush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00055A</CODE>
+        <NAME>HP 1" x 1/2" Reducer Bush- Atlas</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHP00056A</CODE>
+        <NAME>HP 3/4" X 1/2" Reducer Bush</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHS00001A</CODE>
+        <NAME>Hand Spray Grohe Tigger 27828</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHS00002A</CODE>
+        <NAME>Hand Spray Head Only</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLHS00003A</CODE>
+        <NAME>Hand Spray Flexible Hose</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLMC00001A</CODE>
+        <NAME>PVC Magic Flexible Pipe 1 1/4"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLNRV0001A</CODE>
+        <NAME>1 1/4" NRV Brass YORK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLNRV0002A</CODE>
+        <NAME>1" NRV Brass YORK</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLNRV0003A</CODE>
+        <NAME>1/2 "NRV Valve For Water Heater- PEGLER</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLNRV0004A</CODE>
+        <NAME>NRV Valve For Water Heater</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLPK00001A</CODE>
+        <NAME>Pressure Kit - Grundfose</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLPK00001B</CODE>
+        <NAME>Pressure Kit - ESPA</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLPS00001A</CODE>
+        <NAME>Telemecanique Pressure Switch 1.3-12 Bar</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLPS00002A</CODE>
+        <NAME>Telemecanique Pressure Switch 0-6 Bar</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLPT00001A</CODE>
+        <NAME>ELBI 24 Lter Pressre Tank</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLPT00002A</CODE>
+        <NAME>Pressure Tank Automatic System ( PEWB-24) 24 Ltr</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLPT00003A</CODE>
+        <NAME>Davey Pressure Tank Automatic System ( 24024 P GWS ) 24 Ltr</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLSF00001A</CODE>
+        <NAME>Gebert 3/8" Model No-IMPLUS 590 Universal Flush Fittings</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>PLSF00002A</CODE>
+        <NAME>Syphone Fitting Bottom Inlet 37552 - Grohe</NAME>
+        <UOM>SET</UOM>
+    </Table>
+    <Table>
+        <CODE>PLSH00001A</CODE>
+        <NAME>Shower Head - Grohe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLSL00001A</CODE>
+        <NAME>Shellac</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLSM00001A</CODE>
+        <NAME>Kitchen Sink Mixer ,33281001 - Grohe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLSS00001A</CODE>
+        <NAME>Shower Head With Flexible Hose - Grohe 28469</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLSS00001B</CODE>
+        <NAME>Shower Hose with Crome finsih , 28150000 - Grohe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLTT00001A</CODE>
+        <NAME>Teflon Tape</NAME>
+        <UOM>ROL</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUBV0001A</CODE>
+        <NAME>PVC Union Valve 1"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUBV0002A</CODE>
+        <NAME>PVC Union Valve 3/4"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUBV0003A</CODE>
+        <NAME>PVC Union Valve 1/2"</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00001A</CODE>
+        <NAME>Upvc 2" 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00002A</CODE>
+        <NAME>Upvc 1-1/2" 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00003A</CODE>
+        <NAME>Upvc 1 1/4" 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00004A</CODE>
+        <NAME>Upvc 1" 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00005A</CODE>
+        <NAME>Upvc 3/4" 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00006A</CODE>
+        <NAME>Upvc 1/2" 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00007A</CODE>
+        <NAME>Upvc 2" Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00008A</CODE>
+        <NAME>Upvc 1-1/2" Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00009A</CODE>
+        <NAME>Upvc 1-1/4" Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00010A</CODE>
+        <NAME>Upvc 1" Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00011A</CODE>
+        <NAME>Upvc 3/4" Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00012A</CODE>
+        <NAME>Upvc 1" Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00013A</CODE>
+        <NAME>Upvc 2" Male Socket Hex Nut - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00014A</CODE>
+        <NAME>Upvc 1-1/2" Male Socket Hex Nut - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00015A</CODE>
+        <NAME>Upvc 1-1/4" Male Socket Hex Nut - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00016A</CODE>
+        <NAME>Upvc 1" Male Socket Hex Nut - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00017A</CODE>
+        <NAME>Upvc 3/4" Male Socket Hex Nut - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00018A</CODE>
+        <NAME>Upvc 1/2" Male Socket Hex Nut - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00019A</CODE>
+        <NAME>Upvc 2" Solvent Weld Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00020A</CODE>
+        <NAME>Upvc 1-1/2" Solvent Weld Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00021A</CODE>
+        <NAME>Upvc 1-1/4" Solvent Weld Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00022A</CODE>
+        <NAME>Upvc 1" Solvent Weld Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00023A</CODE>
+        <NAME>Upvc 3/4" Solvent Weld Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00024A</CODE>
+        <NAME>Upvc 1/2" Solvent Weld Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00025A</CODE>
+        <NAME>Upvc 2" Female Plain x Threaded Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00026A</CODE>
+        <NAME>Upvc 1-1/2" Female Plain x Threaded Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00027A</CODE>
+        <NAME>Upvc 1-1/4" Female Plain x Threaded Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00028A</CODE>
+        <NAME>Upvc 1" Female Plain x Threaded Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00029A</CODE>
+        <NAME>Upvc 3/2" Female Plain x Threaded Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00030A</CODE>
+        <NAME>Upvc 1/2" Female Plain x Threaded Socket - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00031A</CODE>
+        <NAME>Upvc Tee 50mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00032A</CODE>
+        <NAME>Upvc Tee 40mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00033A</CODE>
+        <NAME>Upvc Tee 32mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00034A</CODE>
+        <NAME>Upvc Tee 25mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00035A</CODE>
+        <NAME>Upvc Tee 25mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00036A</CODE>
+        <NAME>Upvc Tee 20mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00037A</CODE>
+        <NAME>Upvc Socket 50mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00038A</CODE>
+        <NAME>Upvc Socket 40mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00039A</CODE>
+        <NAME>Upvc Socket 32mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00040A</CODE>
+        <NAME>Upvc Socket 25mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00041A</CODE>
+        <NAME>Upvc Socket 20mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00042A</CODE>
+        <NAME>Upvc 50mm 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00043A</CODE>
+        <NAME>Upvc 40mm 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00044A</CODE>
+        <NAME>Upvc 32mm 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00045A</CODE>
+        <NAME>Upvc 25mm 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00046A</CODE>
+        <NAME>Upvc 20mm 90 Deg. Elbow - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00047A</CODE>
+        <NAME>Upvc 50mm Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00048A</CODE>
+        <NAME>Upvc 40mm Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00049A</CODE>
+        <NAME>Upvc 32mm Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00050A</CODE>
+        <NAME>Upvc 25mm Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00051A</CODE>
+        <NAME>Upvc 20mm Union - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLUP00052A</CODE>
+        <NAME>Upvc Male Thread Adaptor 1" x 32mm - GF</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWCP0001A</CODE>
+        <NAME>Washing Machine Connection Pipe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWCS0001A</CODE>
+        <NAME>RAK Seat Cover For WC Flora</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWF00001A</CODE>
+        <NAME>Filter Cartridge 5 Micron,size 10" L x 65mm OD PP Spun(Melt Blown)-Crystal</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWF00002A</CODE>
+        <NAME>Filter Activated Carbon 1 Micron, size 10"(250mm) OD 70mm - Crystal</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWF00003A</CODE>
+        <NAME>Filter PP Pleated 0.2 Micron size 10" (250mm) - Crystal</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00001A</CODE>
+        <NAME>Water Heater Ariston Super GR (Horizontal ) 100 Ltr</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00002A</CODE>
+        <NAME>Water Heater Ariston Super GR (Vertical ) 100 Ltr</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00003A</CODE>
+        <NAME>Water Heater Ariston Blu R( Horizontal ) 100 LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00004A</CODE>
+        <NAME>Water Heater Ariston Blu R(Vertical ) 100 LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00005A</CODE>
+        <NAME>Water Heater Ariston Super GR (Horizontal ) 80 Ltr</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00006A</CODE>
+        <NAME>Water Heater Ariston Super GR (Vertical ) 80 Ltr</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00007A</CODE>
+        <NAME>Water Heater Ariston Blu R( Horizontal ) 80 LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00008A</CODE>
+        <NAME>Water Heater Ariston Blu R(Vertical ) 80 LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00009A</CODE>
+        <NAME>Water Heater Ariston Super GR (Horizontal ) 50 Ltr</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00010A</CODE>
+        <NAME>Water Heater Ariston Super GR (Vertical ) 50 Ltr</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00011A</CODE>
+        <NAME>Water Heater Ariston Blu R( Horizontal ) 50 LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00012A</CODE>
+        <NAME>Water Heater Ariston Blu R(Vertical ) 50 LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00013A</CODE>
+        <NAME>Water Heater Ariston Super GR (Horizontal ) 30 LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWH00014A</CODE>
+        <NAME>Water Heater Ariston Blu R (Horizontal ) 30 LTR</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWHT0001A</CODE>
+        <NAME>ARISTON Water Heter Thermostat</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWM00001A</CODE>
+        <NAME>Wash basin Mixer , 33265001 - Grohe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWM00002A</CODE>
+        <NAME>Wash basin Mixer Wall Mounted, 31191 - Grohe</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWP00001A</CODE>
+        <NAME>Grundfos Water Pump 1.75HP</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>PLWP00002A</CODE>
+        <NAME>Davey Water Pump XF111SS 0.75KW 1PH Pump 240/50,Make Davey Australia</NAME>
+        <UOM>NOS</UOM>
+    </Table>
+    <Table>
+        <CODE>REV</CODE>
+        <NAME>Revenue</NAME>
+        <UOM>NA</UOM>
+    </Table>
+    <Table>
+        <CODE>SAT</CODE>
+        <NAME>STATIONERY</NAME>
+        <UOM>NA</UOM>
+    </Table>
+    <Table>
+        <CODE>TEXT</CODE>
+        <NAME>text</NAME>
+        <UOM>NA</UOM>
+    </Table>
+</NewDataSet>

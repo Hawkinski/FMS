@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#e53935</color>
+    <color name="button">#15A4DA</color>
+    <color name="btn">#00AD5B</color>
+    <color name="top_bar">#0072A9</color>
+    <color name="divider_color">#B6B6B6</color>
+    <color name="secondary_text">#727272</color>
+    <color name="temp">#e0eaeaea</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#99455A64</color>
+    <color name="card">#d680d8ff</color>
+
+</resources>
